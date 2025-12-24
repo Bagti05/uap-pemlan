@@ -1,6 +1,6 @@
 package org.absensi;
-// fix commit message
 
+// fix commit
 public class App {
     public static void main(String[] args) {
         new DashboardFrame();
